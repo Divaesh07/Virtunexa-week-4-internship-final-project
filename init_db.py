@@ -2,8 +2,8 @@ import mysql.connector
 
 DB_CONFIG = {
     'host': 'localhost',
-    'user': 'root',   
-    'password': 'Gopalamysql*1'
+    'user': 'username',   
+    'password': 'password'
 }
 
 def init_db():

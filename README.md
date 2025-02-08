@@ -1,7 +1,9 @@
 # Virtunexa-week-4-internship-final-project
+
 Overview
 
 The Workout Tracker Web App is a fitness tracking application that allows users to log their workouts, visualize progress through reports, and manage their exercise data efficiently. The application is built using Flask, MySQL, and Matplotlib for data visualization.
+
 
 Features
 
